@@ -1,5 +1,5 @@
 # Mentor_Portal
- A Portal specifically designed for mentoring within IIT Madras BS Degree.
+ A Portal specifically designed for mentoring students within IIT Madras BS Degree.
  ## Project Structure
  - Backend
     - env
